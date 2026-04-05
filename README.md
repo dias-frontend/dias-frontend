@@ -7,9 +7,10 @@
 
 ## 🧠 Обо мне
 
-- 💻 Изучаю Frontend (HTML, CSS, JavaScript)
+- 💻 Изучаю Frontend (HTML, CSS, JavaScript, React)
 - ⚡ Делаю интерактивные проекты
 - 🔥 Работаю с DOM, событиями и логикой интерфейса
+- ⚛️ Осваиваю React и компонентный подход
 - 📦 Использую Git и GitHub
 - 🎯 Цель: первая работа / стажировка
 
@@ -20,11 +21,24 @@
 - HTML5  
 - CSS3 (Flexbox, Grid, Animations)  
 - JavaScript (DOM, Events, LocalStorage)  
+- React (useState, useEffect)  
 - Git & GitHub  
 
 ---
 
 ## 🚀 Мои лучшие проекты
+
+### 📈 Investment Tracker (React)
+👉 https://github.com/dias-frontend/investment-tracker  
+👉 https://dias-frontend.github.io/investment-tracker/  
+
+✔ Добавление и удаление активов  
+✔ Подсчет общей суммы  
+✔ LocalStorage (сохранение данных)  
+✔ Валидация ввода  
+✔ useState, useEffect  
+
+---
 
 ### 🛒 Интернет-магазин (Product Page)
 👉 https://github.com/dias-frontend/product-page  
@@ -74,13 +88,15 @@
 ✔ Анимации  
 ✔ LocalStorage  
 ✔ Адаптивная верстка  
+✔ Базовый React  
 
 ---
 
 ## 📬 Контакты
 
-📧 Email: (dioexostar@gmail.com)  
-    Number: 8 707 729 79 37
+📧 Email: dioexostar@gmail.com  
+📱 Phone: +7 707 729 79 37  
+
 ---
 
 ## ⚡ Цель
